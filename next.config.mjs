@@ -6,7 +6,7 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: '/shellConsultancy2',
-  assetPrefix: '/shellConsultancy2\/',
+  assetPrefix: '/shellConsultancy2',
   eslint: {
     ignoreDuringBuilds: true,
   },
